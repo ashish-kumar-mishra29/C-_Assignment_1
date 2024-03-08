@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Assignmet-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDE53C-1AB9-4CFE-B387-217E8526322B}|Assignmet-1\\Assignmet-1.csproj|c:\\users\\hp\\onedrive\\desktop\\c# assignment\\assignmet-1\\assignmet-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDE53C-1AB9-4CFE-B387-217E8526322B}|Assignmet-1\\Assignmet-1.csproj|solutionrelative:assignmet-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EDE53C-1AB9-4CFE-B387-217E8526322B}|Assignmet-1\\Assignmet-1.csproj|c:\\users\\hp\\onedrive\\desktop\\c# assignment\\assignmet-1\\assignmet-1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EDE53C-1AB9-4CFE-B387-217E8526322B}|Assignmet-1\\Assignmet-1.csproj|solutionrelative:assignmet-1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Assignmet-1\\Assignmet-1\\Employee.cs",
+              "RelativeDocumentMoniker": "Assignmet-1\\Employee.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Assignmet-1\\Assignmet-1\\Employee.cs",
+              "RelativeToolTip": "Assignmet-1\\Employee.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:50:49.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Assignmet-1\\Assignmet-1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignmet-1\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\C# Assignment\\Assignmet-1\\Assignmet-1\\Program.cs",
+              "RelativeToolTip": "Assignmet-1\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:57:56.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\bin\Debug\net8.0\Assignmet-1.exe
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\bin\Debug\net8.0\Assignmet-1.deps.json
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\bin\Debug\net8.0\Assignmet-1.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\bin\Debug\net8.0\Assignmet-1.dll
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\bin\Debug\net8.0\Assignmet-1.pdb
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\obj\Debug\net8.0\Assignmet-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\obj\Debug\net8.0\Assignmet-1.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\obj\Debug\net8.0\Assignmet-1.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\obj\Debug\net8.0\Assignmet-1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\obj\Debug\net8.0\Assignmet-1.dll
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\obj\Debug\net8.0\refint\Assignmet-1.dll
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\obj\Debug\net8.0\Assignmet-1.pdb
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\obj\Debug\net8.0\Assignmet-1.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\C# Assignment\Assignmet-1\Assignmet-1\obj\Debug\net8.0\ref\Assignmet-1.dll
